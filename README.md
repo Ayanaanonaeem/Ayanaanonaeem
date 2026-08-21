@@ -270,5 +270,4 @@ I'm looking for opportunities where I can **learn, contribute, solve real-world 
 </div>
 ```
 
-**Note:** Is version mein `Readme Typing SVG`, header/footer animation, profile views, GitHub stats aur streak included hain. **Contribution snake** intentionally nahi dala, kyunki uske liye pehle GitHub Action setup karna padta hai; warna README mein broken image aa sakti hai.
 
