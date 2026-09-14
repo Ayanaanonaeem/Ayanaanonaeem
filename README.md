@@ -1,13 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Ayan%20Naeem&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React.js%20Developer%20%7C%20Frontend%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Ayan%20Naeem&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React.js%20Developer%20%7C%20Frontend%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=React.js+Developer;Frontend+Developer;JavaScript+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Experiences" />
 
 <br/><br/>
+
 </div>
 
 ---
@@ -248,7 +249,7 @@ I'm looking for opportunities where I can **learn, contribute, solve real-world 
 </a>
 
 <a href="mailto:ayanaano5@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Ayanaanonaeem">
