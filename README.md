@@ -247,7 +247,7 @@ I'm looking for opportunities where I can **learn, contribute, solve real-world 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:ayannaeem520@gmail.com">
+<a href="mailto:ayanaano5@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
